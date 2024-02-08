@@ -10,3 +10,4 @@ function toggleContent() {
         button.textContent = "More";
     }
 }
+    
